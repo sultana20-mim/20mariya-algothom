@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 int main()
 {
     int data[10]={12,7,25,18,31,9,42,15,27,36};
